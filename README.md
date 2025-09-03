@@ -30,7 +30,7 @@ Apaixonado por transformar ideias em soluções digitais, tenho experiência em 
 
 ## 📫 Vamos conectar?
 
-- 🌐 [LinkedIn: Benito Juarez](www.linkedin.com/in/benito-juarez-025a61322)  
+- 🌐 LinkedIn: [Benito Juarez](www.linkedin.com/in/benito-juarez-025a61322)  
 - ✉️ Email: juarezbenito456@gmail.com  
 
 ---
