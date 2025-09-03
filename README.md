@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Benito Juarez!
+#  Olá, eu sou o Benito Juarez!
 
 Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciência da Computação** no Centro Universitário Braz Cubas.  
 Apaixonado por transformar ideias em soluções digitais, tenho experiência em projetos acadêmicos, sociais e de impacto, unindo **tecnologia, design e inovação**.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <table>
   <tr>
@@ -28,7 +28,7 @@ Apaixonado por transformar ideias em soluções digitais, tenho experiência em 
 
 ---
 
-## 📫 Vamos conectar?
+##  Vamos conectar?
 
 - 🌐 LinkedIn: [Benito Juarez](www.linkedin.com/in/benito-juarez-025a61322)  
 - ✉️ Email: juarezbenito456@gmail.com  
